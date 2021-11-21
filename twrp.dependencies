@@ -1,9 +1,8 @@
 [
   {
     "remote": "github",
-    "repository": "nebrassy/android_kernel_xiaomi_renoir",
-    "target_path": "kernel/xiaomi/renoir",
-    "branch": "android-11"
+    "repository": "xiaomi-lisa-devs/android_kernel_xiaomi_sm7325",
+    "target_path": "kernel/xiaomi/lisa",
+    "branch": "lineage-18.1"
   }
 ]
-
