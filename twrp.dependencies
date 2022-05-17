@@ -1,8 +1,8 @@
 [
   {
     "remote": "github",
-    "repository": "xiaomi-lisa-devs/android_kernel_xiaomi_sm7325",
-    "target_path": "kernel/xiaomi/lisa",
-    "branch": "lineage-18.1"
+    "repository": "xiaomi-lisa-devs/android_kernel_xiaomi_sm8350",
+    "target_path": "kernel/xiaomi/sm8350",
+    "branch": "staging/lineage-18.1"
   }
 ]
